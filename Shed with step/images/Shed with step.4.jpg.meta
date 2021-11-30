@@ -1,0 +1,12 @@
+{
+    "image": "Shed with step.4",
+    "model_sets": [
+        "Inset Shed"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Paint Textured Black",
+            "sub_material": "Black"
+        }
+    ]
+}
